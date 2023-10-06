@@ -32,3 +32,7 @@ if __name__ == "__main__":
 
     print("Subchain: Squirrel > Dog")
     client_code(squirrel)
+
+
+
+# chain of responsibility principle...    
